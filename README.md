@@ -1,0 +1,1 @@
+# introduction-to-JavaScript-variable-declaration
